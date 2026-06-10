@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Answer","PropKind"],"struct":["PropFieldInfo","SecretFieldInfo","SelectItem"],"trait":["ChannelConfig","ConfigHandle","HasPropKind","OnboardUi"]};
